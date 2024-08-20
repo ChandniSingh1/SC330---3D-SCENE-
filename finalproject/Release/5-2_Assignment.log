@@ -1,0 +1,9 @@
+﻿  SceneManager.cpp
+C:\Users\Shavanie\Dropbox\PC\Downloads\CS330Content29June\CS330Content\Projects\finalproject\Source\SceneManager.cpp(236,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shavanie\Dropbox\PC\Downloads\CS330Content29June\CS330Content\Projects\finalproject\Source\SceneManager.cpp(501,27): warning C4305: '=': truncation from 'double' to 'float'
+  Generating code
+  1 of 768 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  5-2_Assignment.vcxproj -> C:\Users\Shavanie\Dropbox\PC\Downloads\CS330Content29June\CS330Content\Projects\finalproject\Release\5-2_Assignment.exe
